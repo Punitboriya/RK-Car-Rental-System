@@ -4,18 +4,19 @@ Explore the world of car rentals with the **Car Rental System**, a Java-based co
 
 ## Features
 
-🚀 Rent a Car: Experience the ease of renting cars through an interactive console.
-🔁 Return a Car: Effortlessly return previously rented cars and update availability.
-👥 Customer Management: Add new customers and maintain customer records.
-🚗 Car Management: Manage cars, brands, models, and pricing details.
-📝 Rental History: Keep track of rentals, customers, and rental durations.
+<br>
+🚀 Rent a Car: Experience the ease of renting cars through an interactive console.<br>
+🔁 Return a Car: Effortlessly return previously rented cars and update availability.<br>
+👥 Customer Management: Add new customers and maintain customer records.<br>
+🚗 Car Management: Manage cars, brands, models, and pricing details.<br>
+📝 Rental History: Keep track of rentals, customers, and rental durations.<br>
 
 
 ## Future Roadmap 🛤️
 
-🤝 Support multiple customers renting the same car simultaneously.
-⏰ Implement date-based pricing adjustments.
-🎨 Develop a graphical user interface (GUI) for enhanced user experience.
+🤝 Support multiple customers renting the same car simultaneously.<br>
+⏰ Implement date-based pricing adjustments.<br>
+🎨 Develop a graphical user interface (GUI) for enhanced user experience.<br>
 
 ---
 
